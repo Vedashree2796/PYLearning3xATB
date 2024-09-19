@@ -1,0 +1,1 @@
+{"firstname":"Susan","lastname":"Wilson","totalprice":177,"depositpaid":false,"bookingdates":{"checkin":"2018-07-08","checkout":"2022-08-31"},"additionalneeds":"Breakfast"}
